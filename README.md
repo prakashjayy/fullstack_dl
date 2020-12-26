@@ -10,7 +10,7 @@ Full stack deep learning starter kit
 - [ ] Github actions.
 - [ ] pre-commit hooks and its uses.
 - [ ] Github CI/CD pipeline.
-- [ ] setting up DVC.
+- [ ] setting up DVC or Git-LFS.
 - [ ] setting up mlflow/wandb.
 - [ ] writing apis using fastapi.
 - [ ] quantization/fp16.
