@@ -4,6 +4,7 @@ Full stack deep learning starter kit
 
 ## Things to work on
 - [ ] nbdev and its uses. 
+- [ ] setup your terminal using - ZSH 
 - [ ] setting up docker and vscode for remote container. 
 - [ ] classification using pytorch lightning.
 - [ ] writing pytest.
