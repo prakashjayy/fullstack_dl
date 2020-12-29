@@ -14,7 +14,7 @@ Full stack deep learning starter kit
 - [ ] setting up DVC or Git-LFS.
 - [ ] setting up mlflow/wandb.
 - [ ] writing apis using fastapi.
-- [ ] quantization/fp16.
+- [ ] quantization/fp16/int8 calibration.
 - [ ] onnx.
 - [ ] tensorrt. 
 - [ ] deploying on edge device. 
