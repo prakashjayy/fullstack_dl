@@ -17,4 +17,5 @@ Full stack deep learning starter kit
 - [ ] quantization/fp16/int8 calibration.
 - [ ] onnx.
 - [ ] tensorrt. 
+- [ ] streamlit
 - [ ] deploying on edge device. 
