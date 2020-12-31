@@ -1,0 +1,3 @@
+nbdev
+pre-commit
+jupyter
