@@ -23,7 +23,7 @@ Full stack deep learning starter kit
 - [ ] setting up DVC or Git-LFS.
 - [ ] setting up mlflow/wandb.
 - [ ] writing apis using fastapi.
-- [ ] quantization/fp16.
+- [ ] quantization/fp16/int8 calibration.
 - [ ] onnx.
 - [ ] tensorrt.
 - [ ] deploying on edge device.
@@ -31,3 +31,6 @@ Full stack deep learning starter kit
 
 ## Resources
 - [Facebook Research about Pytorch Lightning](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability)
+- [ ] tensorrt.
+- [ ] streamlit
+- [ ] deploying on edge device.
