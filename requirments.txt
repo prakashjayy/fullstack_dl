@@ -1,3 +1,0 @@
-nbdev
-pre-commit
-jupyter

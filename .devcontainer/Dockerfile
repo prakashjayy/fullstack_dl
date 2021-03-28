@@ -12,9 +12,6 @@ RUN \
 
 WORKDIR /opt/space/
 
-COPY requirments.txt /opt/space/
-
-RUN pip install -r requirments.txt
 
 RUN \
     python -c "import torch; assert torch.__version__== '1.7.1'"
