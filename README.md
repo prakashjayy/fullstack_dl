@@ -2,10 +2,10 @@
 Full stack deep learning starter kit
 
 ## Updates
-- [26-11-2020] Docker Setup https://github.com/prakashjayy/fullstack_dl/issues/2
-- [31-11-2020] setup pre-commit hooks https://github.com/prakashjayy/fullstack_dl/issues/6
-- [31-11-2020] Development inside a container using vscode https://github.com/prakashjayy/fullstack_dl/issues/5
-- [27-01-2021] GitLFS https://github.com/prakashjayy/fullstack_dl/issues/11
+- [26-11-2020] Docker Setup [#2](https://github.com/prakashjayy/fullstack_dl/issues/2)
+- [31-11-2020] setup pre-commit hooks [#6](https://github.com/prakashjayy/fullstack_dl/issues/6)
+- [31-11-2020] Development inside a container using vscode [#5](https://github.com/prakashjayy/fullstack_dl/issues/5)
+- [27-01-2021] GitLFS [#11](https://github.com/prakashjayy/fullstack_dl/issues/11)
 
 ## Upcoming - `*` means work in progress.
 - nbdev and its uses.
