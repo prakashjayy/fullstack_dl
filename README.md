@@ -1,5 +1,7 @@
 # fullstack_dl
-Full stack deep learning starter kit
+Full stack deep learning starter kit. 
+
+We are using issues to write the documentation. It is advisible to use discussions if you find any errors, new topics etc and keep the issues clean. 
 
 ## Updates
 - [26-11-2020] Docker Setup [#2](https://github.com/prakashjayy/fullstack_dl/issues/2) 🍮
