@@ -10,6 +10,7 @@ We are using issues to write the documentation. It is advisible to use discussio
 - [27-01-2021] GitLFS [#11](https://github.com/prakashjayy/fullstack_dl/issues/11) ♨️
 - [28-03-2021] Protocol buffers [#12](https://github.com/prakashjayy/fullstack_dl/issues/12), Protocol buffers using Python [#14](https://github.com/prakashjayy/fullstack_dl/issues/14) 🤯
 - [08-06-2021] einops [#16](https://github.com/prakashjayy/fullstack_dl/issues/16) 🧑
+- [10-07-2021] python-poetry cheatsheet [#17](https://github.com/prakashjayy/fullstack_dl/issues/17) 🎆
 
 ## Upcoming - `*` means work in progress.
 - nbdev and its uses.
