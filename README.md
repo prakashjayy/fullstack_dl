@@ -16,10 +16,9 @@ Contributions are most welcome
 - [28-03-2021] Protocol buffers [#12](https://github.com/prakashjayy/fullstack_dl/issues/12), Protocol buffers using Python [#14](https://github.com/prakashjayy/fullstack_dl/issues/14) 🤯
 - [08-06-2021] einops [#16](https://github.com/prakashjayy/fullstack_dl/issues/16) 🧑
 - [10-07-2021] python-poetry cheatsheet [#17](https://github.com/prakashjayy/fullstack_dl/issues/17) 🎆
+- [26-07-2021] oh-my-zsh - make ur terminal more useful [#15](https://github.com/prakashjayy/fullstack_dl/issues/15)
 
 ## Upcoming - `*` means work in progress.
-- nbdev and its uses.
-- **setup your terminal using - ZSH**
 - setting up docker and vscode for remote container.
 - writing pytest.
 - Github actions.
