@@ -17,6 +17,7 @@ Contributions are most welcome
 - [08-06-2021] einops [#16](https://github.com/prakashjayy/fullstack_dl/issues/16) 🧑
 - [10-07-2021] python-poetry cheatsheet [#17](https://github.com/prakashjayy/fullstack_dl/issues/17) 🎆
 - [26-07-2021] oh-my-zsh - make ur terminal more useful [#15](https://github.com/prakashjayy/fullstack_dl/issues/15)
+- [29-07-2021] pyenv - creating python environments [#21](https://github.com/prakashjayy/fullstack_dl/issues/21)
 
 ## Upcoming - `*` means work in progress.
 - setting up docker and vscode for remote container.
